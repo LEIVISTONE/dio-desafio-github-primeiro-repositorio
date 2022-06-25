@@ -1,0 +1,6 @@
+* Conhecendo Algoritimos
+* Logica
+* Tecnicas de Programação
+* Tipologias Variaveis
+* Linguagem de Programação
+* Algoritimos em Portugol
